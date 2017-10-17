@@ -1,0 +1,46 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample-angular-5\dist_no_ws_bo
+
+16.10.2017  19:35            59.191 0.4a253ba9b65d0b04ec2f.chunk.js
+16.10.2017  19:35             1.472 inline.e7c3c0017da7634a9b6b.bundle.js
+16.10.2017  19:35           746.802 main.f11e4f0edaa37fce1db9.bundle.js
+16.10.2017  19:35            65.937 polyfills.dba767cfd54dfab72a51.bundle.js
+               4 Datei(en),        873.402 Bytes
+               0 Verzeichnis(se), 104.771.919.872 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample-angular-5\dist_ws_bo
+
+16.10.2017  19:36            59.191 0.4a253ba9b65d0b04ec2f.chunk.js
+16.10.2017  19:36             1.472 inline.e7c3c0017da7634a9b6b.bundle.js
+16.10.2017  19:36           746.802 main.f11e4f0edaa37fce1db9.bundle.js
+16.10.2017  19:36            65.937 polyfills.dba767cfd54dfab72a51.bundle.js
+               4 Datei(en),        873.402 Bytes
+               0 Verzeichnis(se), 104.771.915.776 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample-angular-5\dist_no_ws_no_bo
+
+16.10.2017  19:29            62.592 0.c513d6ce10542a1c9297.chunk.js
+16.10.2017  19:29             1.472 inline.42c6db9ba1eb485da69c.bundle.js
+16.10.2017  19:29            47.551 main.2874d6e73508480f43a3.bundle.js
+16.10.2017  19:29            66.083 polyfills.d92c1c2ce7de069b97c6.bundle.js
+16.10.2017  19:29           746.066 vendor.25a6bb553d29ac21da4c.bundle.js
+               5 Datei(en),        923.764 Bytes
+               0 Verzeichnis(se), 104.771.915.776 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample-angular-5\dist_ws_no_bo
+
+16.10.2017  19:27            62.592 0.c513d6ce10542a1c9297.chunk.js
+16.10.2017  19:27             1.472 inline.42c6db9ba1eb485da69c.bundle.js
+16.10.2017  19:27            47.551 main.2874d6e73508480f43a3.bundle.js
+16.10.2017  19:27            66.083 polyfills.d92c1c2ce7de069b97c6.bundle.js
+16.10.2017  19:27           746.066 vendor.25a6bb553d29ac21da4c.bundle.js
+               5 Datei(en),        923.764 Bytes
+               0 Verzeichnis(se), 104.771.915.776 Bytes frei
