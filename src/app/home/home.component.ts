@@ -5,9 +5,11 @@ import { Component, OnInit } from '@angular/core';
 @Component({
     selector: 'home',
     template: `
-        <div class="card">
+        
+    
+    <div class="card">
             <div class="header">
-                <h2 class="title" *ngIf="!userName">Welcome!</h2>
+                <h2 class="title" *ngIf="!userName">Welcome!!!!!!!!!!!!</h2>
                 <h2 class="title" *ngIf="userName">Welcome, {{userName}}!</h2>
             </div>
             <div class="content">
